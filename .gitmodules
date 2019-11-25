@@ -1,0 +1,18 @@
+[submodule "minirogue"]
+	path = minirogue
+	url = https://github.com/poggioenzo/minirogue
+[submodule "tmpsh"]
+	path = tmpsh
+	url = https://github.com/poggioenzo/tmpsh
+[submodule "libft"]
+	path = libft
+	url = https://github.com/poggioenzo/libft
+[submodule "fillit"]
+	path = fillit
+	url = https://github.com/poggioenzo/fillit
+[submodule "gnl"]
+	path = gnl
+	url = https://github.com/poggioenzo/gnl
+[submodule "ft_ls"]
+	path = ft_ls
+	url = https://github.com/poggioenzo/ft_ls
