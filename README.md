@@ -1,7 +1,7 @@
 # 42lyon_scholarity
 42 Lyon Projects - All projects done @ 42 Lyon
 
-## Cloner all repos
+## Clone all repos and update submodule
 
 ```
 git clone --recurse-submodules https://github.com/poggioenzo/42lyon_scholarity/
