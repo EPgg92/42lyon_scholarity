@@ -1,5 +1,5 @@
-# 42lyon_scholarity
-42 Lyon Projects - Some projects done @ 42 Lyon
+# 42 Lyon Scholarity Projects
+Some projects done at 42 Lyon
 
 ## Clone all repos and update submodule
 
